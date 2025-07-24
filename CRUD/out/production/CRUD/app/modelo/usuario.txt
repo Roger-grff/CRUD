@@ -1,0 +1,11 @@
+usuario1;4832;Estandar
+usuario2;9174;Estandar  
+usuario3;2056;Estandar  
+usuario4;7319;Estandar  
+usuario5;6601;Estandar
+carlos;4821;Estandar  
+mariana;9350;Estandar  
+lucas;1274;Estandar  
+sofia;6802;Estandar  
+diego;7435;Invitado  
+admin;admin;Administrador
